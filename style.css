@@ -1,0 +1,27 @@
+body {
+    background-color:orange;
+    color: white;
+}
+h1{color:rgb(255, 255, 255); padding-left: 40;padding-top: 30;font-family: Verdana;
+
+}
+
+div{
+    padding-left: 110; font-family: Verdana;
+
+}
+.first{
+    padding-left: 80;
+    font-family: Verdana;}
+
+.second{
+        padding-left: 15;
+        font-family: Verdana;}
+.third{
+    padding-left: 30;
+    font-family: Verdana;
+}
+footer{
+    padding-left: 40;
+    font-family: Verdana;
+}
